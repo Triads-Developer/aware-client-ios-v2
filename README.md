@@ -10,8 +10,6 @@ The platform is scalable with plugins and can be integrated with other platforms
 
 ![Arquitecture](http://www.awareframework.com/wp-content/uploads/2015/12/aware-architecture.png)
 
-You can now refer to AWARE's functions inside your app.
-
 ### Individuals: Record your own data
 No programming skills are required. The mobile application allows you to enable or disable sensors and plugins. The data is saved locally on your mobile phone. Privacy is enforced by design, so AWARE does not log personal information, such as phone numbers or contacts information. You can additionally install plugins that will further enhance the capabilities of your device, straight from the client.
 
